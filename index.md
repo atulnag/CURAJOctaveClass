@@ -2,7 +2,7 @@
 
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 
-## Octave basics and variables
+## Vectors/Text
 * Video Link 
   * [Lecture 3](https://vimeo.com/449669557){:target="_blank"}
   * [Lecture 2](https://vimeo.com/449674442){:target="_blank"}
@@ -14,7 +14,7 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
   * [Vectors](https://github.com/atulnag/Octave/blob/master/03_createVectors.m){:target="_blank"}
   * [Text](https://github.com/atulnag/Octave/blob/master/04_workText.m){:target="_blank"}
 
-## Introduction and creating scripts
+## Introduction, creating scripts, Octave basics
 * Video Link - [Lecture 1](https://vimeo.com/449673556){:target="_blank"}
 * PPT - [Slide link](https://1drv.ms/p/s!AjYQ58A0o7WTkHpUhrV_oMRdEMzf?e=6je9Hg){:target="_blank"}
 * Source Code 
