@@ -1,13 +1,8 @@
----
-lecture1Id: 449673556
----
-
 # Welcome to MATLAB/Octave
 
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 
 ## Lecture 1 - Introduction and creating scripts
-{% include vimeoPlayer.html id=lecture1Id %}
 1. [Lecture 1](https://vimeo.com/449673556) Introduction and creating scripts
 2. [Lecture 2](https://vimeo.com/449674442) Octave basics and variables
 3. [Lecture 3](https://vimeo.com/449669557) Octave vectors and text
