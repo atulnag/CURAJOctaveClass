@@ -1,8 +1,6 @@
 %% 
-%     COURSE: Master MATLAB through guided problem-solving
 %    SECTION: Vectors and variables
 %      VIDEO: Create vectors and matrices
-% Instructor: mikexcohen.com
 %
 %%
 
