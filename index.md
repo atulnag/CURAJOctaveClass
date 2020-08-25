@@ -2,14 +2,23 @@
 
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 
+## Command Structures
+* PPT 
+  * [Slide link - L5](https://1drv.ms/p/s!AjYQ58A0o7WTkTYBQmi-cJZdSb0l?e=JwEjyL){:target="_blank"}
+* Source Code 
+  * [Hilbert Matrix](https://github.com/atulnag/CURAJOctaveClass/blob/master/08_HilbertMatrix.m){:target="_blank"}
+
 ## Vectors/Text
 * Video Link 
+  * [Lecture 5](https://vimeo.com/451433422){:target="_blank"}
   * [Lecture 4](https://vimeo.com/451017912){:target="_blank"}
   * [Lecture 3](https://vimeo.com/449669557){:target="_blank"}
   * [Lecture 2](https://vimeo.com/449674442){:target="_blank"}
 * PPT 
-  * [Slide link - L2](https://1drv.ms/p/s!AjYQ58A0o7WTkR4hTP-xzDhffIcU?e=wDBQqz){:target="_blank"}
+  * [Slide link - L2-5](https://1drv.ms/p/s!AjYQ58A0o7WTkR4hTP-xzDhffIcU?e=wDBQqz){:target="_blank"}
 * Source Code 
+  * [File Info from Structures](https://github.com/atulnag/CURAJOctaveClass/blob/master/07_fileInfoFromStructures.m){:target="_blank"}
+  * [Round Pi to significant digits](https://github.com/atulnag/CURAJOctaveClass/blob/master/06_round_pi.m){:target="_blank"}
   * [HTML table](https://github.com/atulnag/CURAJOctaveClass/blob/master/05_text_html.m){:target="_blank"}
   * [Text](https://github.com/atulnag/Octave/blob/master/04_workText.m){:target="_blank"}
   * [Vectors](https://github.com/atulnag/Octave/blob/master/03_createVectors.m){:target="_blank"}
