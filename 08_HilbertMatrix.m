@@ -9,13 +9,13 @@ m = 5;
 
 % initialize variables whenever possible!
 hilmat   = zeros(m);
-checkmat = 
+checkmat = zeros(m);
 
 % now for the loops:
 for i=1:m
     for j=1:m
         
-         % denominator
+        % denominator
         den = i +j - 1
         
         % and invert to find this element
@@ -23,7 +23,7 @@ for i=1:m
         
         
         % bonus: checkerboard
-        
+        checkmat(i, j) = (-1)^den;
         
     end
 end
@@ -36,9 +36,9 @@ imagesc(hilmat)
 axis square, title('Hilbert matrix')
 set(gca,'xtick',[],'ytick',[])
 
-% subplot(122)
-% imagesc(checkmat)
-% axis square, title('Checkerboard matrix')
-% set(gca,'xtick',[],'ytick',[])
+subplot(122)
+imagesc(checkmat)
+axis square, title('Checkerboard matrix')
+set(gca,'xtick',[],'ytick',[])
 
 %%
