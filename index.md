@@ -8,7 +8,7 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
   * [Lecture 7 - Random Poisson-like Countdown Timer](https://vimeo.com/453549665){:target="_blank"}
   * [Lecture 6 - Hilbert &amp; Upper- Triangular Matrix](https://vimeo.com/452209463){:target="_blank"}
 * PPT 
-  * [Slide link - L6](https://1drv.ms/p/s!AjYQ58A0o7WTkTYBQmi-cJZdSb0l?e=cEVbJ4){:target="_blank"}
+  * [Slide link - L6-8](https://1drv.ms/p/s!AjYQ58A0o7WTkTYBQmi-cJZdSb0l?e=cEVbJ4){:target="_blank"}
 * Source Code 
   * [Day of the Week](https://github.com/atulnag/CURAJOctaveClass/blob/master/11_DayOf1January.m){:target="_blank"}
   * [Random Poisson-like Countdown Timer](https://github.com/atulnag/CURAJOctaveClass/blob/master/10_PoissonCounter.m){:target="_blank"}
