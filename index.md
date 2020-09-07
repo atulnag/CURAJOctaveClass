@@ -1,6 +1,13 @@
 # Welcome to MATLAB/Octave
 
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
+## Importing Data
+* Video Link
+  * [Lecture 9 - Create/Import Files](https://vimeo.com/455369923){:target="_blank"}
+* PPT 
+  * [Slide link - L9](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
+* Source Code 
+  * [Create/Import Files](https://github.com/atulnag/CURAJOctaveClass/blob/master/12_exportInput.m){:target="_blank"}
 
 ## Command Structures
 * Video Link 
@@ -14,7 +21,6 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
   * [Random Poisson-like Countdown Timer](https://github.com/atulnag/CURAJOctaveClass/blob/master/10_PoissonCounter.m){:target="_blank"}
   * [Upper-Triangular Matrix](https://github.com/atulnag/CURAJOctaveClass/blob/master/09_TriangularMatrix.m){:target="_blank"}
   * [Hilbert Matrix](https://github.com/atulnag/CURAJOctaveClass/blob/master/08_HilbertMatrix.m){:target="_blank"}
-
 ## Vectors/Text
 * Video Link 
   * [Lecture 5](https://vimeo.com/451433422){:target="_blank"}
