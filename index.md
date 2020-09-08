@@ -3,10 +3,12 @@
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 ## Importing Data
 * Video Link
-  * [Lecture 9 - Create/Import Files](https://vimeo.com/455369923){:target="_blank"}
+  * [Lecture 10 - Recap & Import tab-formatted Files](https://vimeo.com/455688853){:target="_blank"}
+  * [Lecture 9 - Create/Import Multiple Files](https://vimeo.com/455369923){:target="_blank"}
 * PPT 
-  * [Slide link - L9](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
+  * [Slide link - L9-10](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
 * Source Code 
+  * [Import tab-formatted File](https://github.com/atulnag/CURAJOctaveClass/blob/master/13_inputtxt.m){:target="_blank"}
   * [Create/Import Files](https://github.com/atulnag/CURAJOctaveClass/blob/master/12_exportInput.m){:target="_blank"}
 
 ## Command Structures
