@@ -3,6 +3,7 @@
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 ## Importing Data
 * Video Link
+  * [Lecture 11 - Recap & Import tab-formatted Files](https://vimeo.com/463402993){:target="_blank"}
   * [Lecture 10 - Recap & Import tab-formatted Files](https://vimeo.com/455688853){:target="_blank"}
   * [Lecture 9 - Create/Import Multiple Files](https://vimeo.com/455369923){:target="_blank"}
 * PPT 
