@@ -3,6 +3,7 @@
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
 ## Importing Data
 * Video Link
+  * [Lecture 13 - Currency Converter](https://vimeo.com/465099600){:target="_blank"}
   * [Lecture 12 - Import Excel-format data](https://vimeo.com/464878570){:target="_blank"}
   * [Lecture 11 - Recap & Import tab-formatted Files](https://vimeo.com/463402993){:target="_blank"}
   * [Lecture 10 - Recap & Import tab-formatted Files](https://vimeo.com/455688853){:target="_blank"}
@@ -10,6 +11,7 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
 * PPT 
   * [Slide link - L9-10](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
 * Source Code 
+  * [Currency Converter](https://github.com/atulnag/CURAJOctaveClass/blob/master/15_convertCurrency.m){:target="_blank"}
   * [Import Excel-format data](https://github.com/atulnag/CURAJOctaveClass/blob/master/14_importExcel.m){:target="_blank"}
   * [Import tab-formatted File](https://github.com/atulnag/CURAJOctaveClass/blob/master/13_inputtxt.m){:target="_blank"}
   * [Create/Import Files](https://github.com/atulnag/CURAJOctaveClass/blob/master/12_exportInput.m){:target="_blank"}
