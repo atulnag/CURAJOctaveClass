@@ -14,8 +14,8 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
   * [Import tab-formatted File](https://github.com/atulnag/CURAJOctaveClass/blob/master/13_inputtxt.m){:target="_blank"}
   * [Create/Import Files](https://github.com/atulnag/CURAJOctaveClass/blob/master/12_exportInput.m){:target="_blank"}
  * Data Files 
-  * [Excel-format data](https://github.com/atulnag/CURAJOctaveClass/blob/master/sensordata.xlsx){:target="_blank"}
-  * [Tab-formatted File data](https://github.com/atulnag/CURAJOctaveClass/blob/master/datafile.txt){:target="_blank"}
+   * [Excel-format data](https://github.com/atulnag/CURAJOctaveClass/blob/master/sensordata.xlsx){:target="_blank"}
+   * [Tab-formatted File data](https://github.com/atulnag/CURAJOctaveClass/blob/master/datafile.txt){:target="_blank"}
 
 ## Command Structures
 * Video Link 
