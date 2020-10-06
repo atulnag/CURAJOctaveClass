@@ -1,6 +1,16 @@
 # Welcome to MATLAB/Octave
 
 Materials of the class taken for M.Sc Sports Biomechanics for Central University of Rajasthan.
+
+## Conversion of Formulae to Code
+* Video Link
+  * [Lecture 14 - Currency Converter 2 and Trig functions & Gaussian](https://vimeo.com/465253370){:target="_blank"}
+* PPT 
+  * [Slide link - L14 -15](https://1drv.ms/p/s!AjYQ58A0o7WTkUw9HvayDXrxhpOa?e=Tx9zmp){:target="_blank"}
+* Source Code 
+  * [Trig functions & Gaussian](https://github.com/atulnag/CURAJOctaveClass/blob/master/17_trigGauss.m){:target="_blank"}
+ 
+
 ## Importing Data
 * Video Link
   * [Lecture 13 - Currency Converter](https://vimeo.com/465099600){:target="_blank"}
@@ -9,8 +19,9 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
   * [Lecture 10 - Recap & Import tab-formatted Files](https://vimeo.com/455688853){:target="_blank"}
   * [Lecture 9 - Create/Import Multiple Files](https://vimeo.com/455369923){:target="_blank"}
 * PPT 
-  * [Slide link - L9-10](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
+  * [Slide link - L9-13](https://1drv.ms/p/s!AjYQ58A0o7WTkT0J0eN3Ap1AVS8H?e=eslLK9){:target="_blank"}
 * Source Code 
+  * [Currency Converter2](https://github.com/atulnag/CURAJOctaveClass/blob/master/16_convertCurrency.m){:target="_blank"}
   * [Currency Converter](https://github.com/atulnag/CURAJOctaveClass/blob/master/15_convertCurrency.m){:target="_blank"}
   * [Import Excel-format data](https://github.com/atulnag/CURAJOctaveClass/blob/master/14_importExcel.m){:target="_blank"}
   * [Import tab-formatted File](https://github.com/atulnag/CURAJOctaveClass/blob/master/13_inputtxt.m){:target="_blank"}
