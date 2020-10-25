@@ -4,10 +4,12 @@ Materials of the class taken for M.Sc Sports Biomechanics for Central University
 
 ## Conversion of Formulae to Code
 * Video Link
+  * [Lecture 15 - Functions using Natural Exponential - Laplace & Log-normal Distributions](https://vimeo.com/471903987){:target="_blank"}
   * [Lecture 14 - Currency Converter 2 and Trig functions & Gaussian](https://vimeo.com/465253370){:target="_blank"}
 * PPT 
   * [Slide link - L14 -15](https://1drv.ms/p/s!AjYQ58A0o7WTkUw9HvayDXrxhpOa?e=Tx9zmp){:target="_blank"}
 * Source Code 
+  * [Laplace & Log-normal Distributions](https://github.com/atulnag/CURAJOctaveClass/blob/master/18_e.m){:target="_blank"}
   * [Trig functions & Gaussian](https://github.com/atulnag/CURAJOctaveClass/blob/master/17_trigGauss.m){:target="_blank"}
  
 
